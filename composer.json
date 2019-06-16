@@ -1,0 +1,19 @@
+{
+    "name": "swoft/swoft-base",
+    "description": "swoft framework base component",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "jirry",
+            "email": "390066398@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "swoft\\base\\": "src/"
+        }
+    },
+    "require": {}
+}
