@@ -9,7 +9,7 @@
  * @time     16:14
  */
 
-namespace Jirry\App\Http\Controller;
+namespace Jirry\Http\Controller;
 
 use Swoft\Http\Server\Annotation\Mapping\Controller;
 
